@@ -30,6 +30,6 @@ SpyHolmes é licenciado sob a licença MIT. Consulte o arquivo LICENSE para obte
 
 ## Contato
 
-Se você tiver alguma dúvida ou precisar de assistência, entre em contato conosco em support@spyholmes.com.
+Se você tiver alguma dúvida ou precisar de assistência, entre em contato conosco na aba Issues.
 
 Divirta-se investigando com SpyHolmes! 🎩🔍
