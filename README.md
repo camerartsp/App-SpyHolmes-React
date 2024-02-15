@@ -16,7 +16,7 @@ Nossa IA de conversa para investigação é uma ferramenta avançada que utiliza
 
 ## Como usar 🔔
 
-1. Baixe e instale o aplicativo SpyHolmes em Releases.
+1. Baixe e instale o aplicativo SpyHolmes em [Releases](https://github.com/camerartsp/App-SpyHolmes-React/releases).
 2. Abra o aplicativo e escolha entre as ferramentas Sherlock ou IA de Conversa para Investigação.
 3. Siga as instruções na tela para começar sua investigação.
 
